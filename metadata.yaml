@@ -1,0 +1,31 @@
+_repo: Three-Frenchmen-in-BengalThe-Commercial-Ruin-of-the-French-Settlements-in-1757_10946
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hill, Samuel Charles
+    alias: Hill, S. C. (Samuel Charles)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '3765'
+    url: http://www.gutenberg.org/2009/agents/3765
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10946'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bengal (India) -- History'
+- !lcc 'DS'
+- !lcsh 'Courtin, Jacques Ignace, active 18th century'
+- !lcsh 'Renault, Pierre'
+- !lcsh 'French -- India'
+- !lcsh 'Law, John, b. 1719'
+- GITenberg
+title: 'Three Frenchmen in Bengal
+
+  The Commercial Ruin of the French Settlements in 1757'
+url: http://www.gutenberg.org/ebooks/10946
